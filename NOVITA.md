@@ -1,5 +1,9 @@
 # Novità di Tagly
 
+## 1.0.3 — 31 ottobre 2026
+
+- Tagly arriva anche su Google Play (per ora in test chiuso).
+
 ## 1.0.2 — 31 ottobre 2026
 
 - I promemoria arrivano puntuali anche col telefono a riposo.
