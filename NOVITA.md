@@ -1,5 +1,14 @@
 # Novità di Tagly
 
+## 1.0.2 — 31 ottobre 2026
+
+- I promemoria arrivano puntuali anche col telefono a riposo.
+- Se un promemoria non si è potuto mostrare (per esempio con le notifiche spente) non va perso: arriva appena riapri Tagly.
+- Il promemoria si salva subito, anche se giri il telefono mentre Tagly chiede il permesso delle notifiche.
+- Dopo «Copia e apri» le foto e i video del post restano disponibili per 7 giorni: puoi pubblicare anche sull'altra app o riprovare.
+- Riaprendo Tagly dalle app recenti non riparte una vecchia condivisione.
+- Correzioni: rapporti tecnici più attenti ai nomi dei file, aggiornamento dell'app che non si propone a metà di un'analisi.
+
 ## 1.0.1 — 31 ottobre 2026
 
 - Orari consigliati più affidabili: sono la media degli studi più recenti di Metricool, Buffer, Hootsuite, Sprout Social e Later, ricontrollati ogni domenica.
