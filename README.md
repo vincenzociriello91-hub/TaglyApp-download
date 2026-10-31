@@ -17,8 +17,10 @@ Gratis, senza pubblicità, senza account. Le statistiche dei tuoi follower e i p
 - **Hashtag su misura**: su Instagram al massimo 5 (è il limite di Instagram), scelti tra grandi, medi e di nicchia; su TikTok 5, fino a 8. Accanto a ogni hashtag vedi quanto è usato. Tocca un hashtag per cambiarlo o toglierlo.
 - **Pubblicazione a un tocco**: «Copia e apri Instagram» (o TikTok) copia la didascalia con gli hashtag e apre l'app con il file già allegato. L'ultimo tocco su «Pubblica» lo dai tu.
 - **Quando pubblicare**: un voto per adesso, la prossima fascia migliore e le 3 migliori della settimana, in ora italiana, con le feste e i ponti. Con le statistiche dei tuoi follower diventano su misura.
-- **Promemoria**: tocca «Ricordamelo» e all'ora giusta una notifica riapre il post pronto.
+- **Le mie statistiche**: segna i giorni e le ore in cui i tuoi follower sono più attivi e gli orari diventano su misura.
+- **Promemoria**: tocca «Ricordamelo» e all'ora giusta una notifica riapre il post pronto. I post in attesa sono in «Programmati».
 - **Anche senza rete**: se l'intelligenza artificiale online non risponde, Tagly riconosce le immagini sul telefono.
+- **Rapporti anonimi, solo se vuoi**: al primo avvio Tagly chiede se può inviare rapporti tecnici per migliorare l'app; si spengono quando vuoi nelle Impostazioni. Cosa contengono è scritto nell'[informativa](PRIVACY.md).
 
 ## Suggerimenti e problemi
 
@@ -29,5 +31,6 @@ Ti piace Tagly? Puoi sostenerne lo sviluppo su [Ko-fi](https://ko-fi.com/vincenz
 ## Informazioni
 
 - [Informativa sulla privacy](PRIVACY.md)
+- Scarica Tagly solo da questa pagina: se la copia installata non è quella originale, l'app te lo dice.
 - I numeri degli hashtag vengono da fonti pubbliche e cambiano ogni giorno: sono indicativi. Tagly non è collegata a Instagram, TikTok, Meta o ByteDance.
 - © 2026 Vincenzo Ciriello. **Tutti i diritti riservati** ([LICENSE](LICENSE)). Questo repository contiene solo l'app compilata e i dati aggiornabili (`config/`): il codice sorgente non è pubblico.
