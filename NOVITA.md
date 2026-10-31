@@ -1,5 +1,11 @@
 # Novità di Tagly
 
+## 1.0.1 — 31 ottobre 2026
+
+- Orari consigliati più affidabili: sono la media degli studi più recenti di Metricool, Buffer, Hootsuite, Sprout Social e Later, ricontrollati ogni domenica.
+- Quando gli studi non sono d'accordo su un orario, Tagly te lo dice accanto al consiglio.
+- Le correzioni per tipo di contenuto restano solo dove ci sono dati: cibo e viaggi.
+
 ## 1.0.0 — 31 ottobre 2026
 
 - Prima versione di Tagly: scegli o condividi una o più foto e video e Tagly propone gli hashtag per Instagram e TikTok, coerenti con quello che mostrano e tra i più usati, in italiano e in inglese.
