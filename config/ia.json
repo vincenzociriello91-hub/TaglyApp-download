@@ -1,5 +1,5 @@
 {
-  "versione": 1,
+  "versione": 2,
   "puter": {
     "analisi": [
       "gemini-3.5-flash-lite",
@@ -15,6 +15,6 @@
     ]
   },
   "rapporti": {
-    "indirizzo": ""
+    "indirizzo": "https://tagly-rapporti.vincenzociriello91.workers.dev/rapporto"
   }
 }
