@@ -1,0 +1,6 @@
+{
+  "versione": 1,
+  "aggiornato": "2026-10-28",
+  "instagram": {"max_hashtag": 5, "max_caratteri": 2200, "proposti": 5, "proposti_max": 5},
+  "tiktok": {"max_hashtag": null, "max_caratteri": 4000, "proposti": 5, "proposti_max": 8}
+}
