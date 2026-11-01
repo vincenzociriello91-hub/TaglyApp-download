@@ -1,5 +1,10 @@
 # Novità di Tagly
 
+## 1.0.4 — 1 novembre 2026
+
+- Corretto: Tagly scaricata da Google Play non viene più segnalata per errore come copia non originale.
+- Se il telefono non riesce a leggere la firma dell'app, Tagly non la scambia più per una copia falsa.
+
 ## 1.0.3 — 31 ottobre 2026
 
 - Tagly arriva anche su Google Play (per ora in test chiuso).
