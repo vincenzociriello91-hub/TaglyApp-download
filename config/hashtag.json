@@ -1,6 +1,6 @@
 {
- "versione": 3,
- "aggiornato": "2026-10-29",
+ "versione": 4,
+ "aggiornato": "2026-11-01",
  "soglie": {
   "enorme": 50000000,
   "grande": 1000000,
@@ -2001,7 +2001,8 @@
   ],
   "canoe": [
    "mare",
-   "laghi"
+   "laghi",
+   "sport"
   ],
   "carpenter's kit": [
    "fai_da_te"
@@ -2011,7 +2012,8 @@
   ],
   "castle": [
    "citta",
-   "viaggi"
+   "viaggi",
+   "borghi"
   ],
   "catamaran": [
    "mare"
@@ -2760,7 +2762,8 @@
   ],
   "cliff": [
    "natura",
-   "mare"
+   "mare",
+   "montagna"
   ],
   "coral reef": [
    "mare"
@@ -2844,6 +2847,955 @@
    "natura"
   ],
   "ear": [
+   "cibo"
+  ],
+  "love": [
+   "coppia"
+  ],
+  "muscle": [
+   "fitness"
+  ],
+  "sunset": [
+   "tramonto",
+   "cielo"
+  ],
+  "monochrome": [
+   "fotografia"
+  ],
+  "picnic": [
+   "amicizia",
+   "cibo"
+  ],
+  "community": [
+   "amicizia"
+  ],
+  "soccer": [
+   "calcio"
+  ],
+  "pitch": [
+   "calcio"
+  ],
+  "lake": [
+   "laghi"
+  ],
+  "dam": [
+   "laghi"
+  ],
+  "coffee": [
+   "caffe",
+   "cibo"
+  ],
+  "cappuccino": [
+   "caffe",
+   "cibo"
+  ],
+  "wine": [
+   "vino",
+   "cibo"
+  ],
+  "alcohol": [
+   "vino"
+  ],
+  "bar": [
+   "vino",
+   "notte"
+  ],
+  "tablecloth": [
+   "ristorante"
+  ],
+  "placemat": [
+   "ristorante"
+  ],
+  "selfie": [
+   "ritratti"
+  ],
+  "smile": [
+   "ritratti"
+  ],
+  "beard": [
+   "ritratti"
+  ],
+  "moustache": [
+   "ritratti"
+  ],
+  "computer": [
+   "tecnologia"
+  ],
+  "mobile phone": [
+   "tecnologia"
+  ],
+  "aerospace engineering": [
+   "tecnologia"
+  ],
+  "presentation": [
+   "lavoro"
+  ],
+  "desk": [
+   "lavoro"
+  ],
+  "whiteboard": [
+   "lavoro"
+  ],
+  "money": [
+   "lavoro"
+  ],
+  "mountain": [
+   "montagna"
+  ],
+  "glacier": [
+   "montagna",
+   "neve",
+   "natura"
+  ],
+  "backpacking": [
+   "montagna",
+   "viaggi"
+  ],
+  "cake": [
+   "dolci",
+   "cibo"
+  ],
+  "cookie": [
+   "dolci",
+   "cibo"
+  ],
+  "icing": [
+   "dolci"
+  ],
+  "pie": [
+   "dolci",
+   "cibo"
+  ],
+  "gelato": [
+   "dolci",
+   "cibo"
+  ],
+  "cat": [
+   "gatti"
+  ],
+  "ragdoll": [
+   "gatti"
+  ],
+  "sphynx": [
+   "gatti"
+  ],
+  "pixie-bob": [
+   "gatti"
+  ],
+  "himalayan": [
+   "gatti"
+  ],
+  "flower": [
+   "fiori"
+  ],
+  "petal": [
+   "fiori"
+  ],
+  "flowerpot": [
+   "fiori"
+  ],
+  "garden": [
+   "fiori"
+  ],
+  "plant": [
+   "fiori"
+  ],
+  "baby": [
+   "famiglia"
+  ],
+  "grandparent": [
+   "famiglia"
+  ],
+  "playground": [
+   "famiglia"
+  ],
+  "toy": [
+   "famiglia"
+  ],
+  "stuffed toy": [
+   "famiglia"
+  ],
+  "plush": [
+   "famiglia"
+  ],
+  "running": [
+   "corsa_bici"
+  ],
+  "marathon": [
+   "corsa_bici"
+  ],
+  "track": [
+   "corsa_bici"
+  ],
+  "cycling": [
+   "corsa_bici"
+  ],
+  "bicycle": [
+   "corsa_bici"
+  ],
+  "hair": [
+   "bellezza"
+  ],
+  "bangs": [
+   "bellezza"
+  ],
+  "eyelash": [
+   "bellezza"
+  ],
+  "nail": [
+   "bellezza"
+  ],
+  "glitter": [
+   "bellezza"
+  ],
+  "dog": [
+   "cani"
+  ],
+  "basset hound": [
+   "cani"
+  ],
+  "cairn terrier": [
+   "cani"
+  ],
+  "shikoku": [
+   "cani"
+  ],
+  "cavalier": [
+   "cani"
+  ],
+  "watercolor paint": [
+   "arte"
+  ],
+  "poster": [
+   "arte"
+  ],
+  "comics": [
+   "arte"
+  ],
+  "statue": [
+   "arte",
+   "citta"
+  ],
+  "museum": [
+   "arte",
+   "viaggi"
+  ],
+  "porcelain": [
+   "arte"
+  ],
+  "tattoo": [
+   "arte"
+  ],
+  "school": [
+   "studio"
+  ],
+  "class": [
+   "studio"
+  ],
+  "blackboard": [
+   "studio"
+  ],
+  "newspaper": [
+   "studio"
+  ],
+  "news": [
+   "studio"
+  ],
+  "graduation": [
+   "studio",
+   "eventi"
+  ],
+  "christmas": [
+   "ricorrenze"
+  ],
+  "santa claus": [
+   "ricorrenze"
+  ],
+  "hanukkah": [
+   "ricorrenze"
+  ],
+  "thanksgiving": [
+   "ricorrenze"
+  ],
+  "wreath": [
+   "ricorrenze"
+  ],
+  "fireworks": [
+   "ricorrenze"
+  ],
+  "carnival": [
+   "ricorrenze",
+   "eventi"
+  ],
+  "party": [
+   "notte"
+  ],
+  "nightclub": [
+   "notte"
+  ],
+  "deejay": [
+   "notte"
+  ],
+  "neon": [
+   "notte"
+  ],
+  "casino": [
+   "notte"
+  ],
+  "sparkler": [
+   "notte"
+  ],
+  "dance": [
+   "notte"
+  ],
+  "concert": [
+   "musica"
+  ],
+  "musical instrument": [
+   "musica"
+  ],
+  "musical": [
+   "musica"
+  ],
+  "musician": [
+   "musica"
+  ],
+  "singer": [
+   "musica"
+  ],
+  "song": [
+   "musica"
+  ],
+  "pop music": [
+   "musica"
+  ],
+  "piano": [
+   "musica"
+  ],
+  "ice": [
+   "neve"
+  ],
+  "icicle": [
+   "neve"
+  ],
+  "iceberg": [
+   "neve"
+  ],
+  "skiing": [
+   "neve",
+   "sport"
+  ],
+  "snowboarding": [
+   "neve",
+   "sport"
+  ],
+  "sled": [
+   "neve"
+  ],
+  "sledding": [
+   "neve"
+  ],
+  "crochet": [
+   "fai_da_te"
+  ],
+  "knitting": [
+   "fai_da_te"
+  ],
+  "needlework": [
+   "fai_da_te"
+  ],
+  "quilting": [
+   "fai_da_te"
+  ],
+  "wool": [
+   "fai_da_te"
+  ],
+  "lego": [
+   "fai_da_te"
+  ],
+  "miniature": [
+   "fai_da_te"
+  ],
+  "doily": [
+   "fai_da_te",
+   "casa"
+  ],
+  "car": [
+   "auto_moto"
+  ],
+  "vehicle": [
+   "auto_moto"
+  ],
+  "motorcycle": [
+   "auto_moto"
+  ],
+  "wheel": [
+   "auto_moto"
+  ],
+  "tire": [
+   "auto_moto"
+  ],
+  "bumper": [
+   "auto_moto"
+  ],
+  "windshield": [
+   "auto_moto"
+  ],
+  "odometer": [
+   "auto_moto"
+  ],
+  "racing": [
+   "auto_moto"
+  ],
+  "van": [
+   "auto_moto"
+  ],
+  "sky": [
+   "cielo"
+  ],
+  "rainbow": [
+   "cielo"
+  ],
+  "lightning": [
+   "cielo"
+  ],
+  "storm": [
+   "cielo"
+  ],
+  "fog": [
+   "cielo"
+  ],
+  "moon": [
+   "cielo"
+  ],
+  "star": [
+   "cielo"
+  ],
+  "aurora": [
+   "cielo"
+  ],
+  "comet": [
+   "cielo"
+  ],
+  "nebula": [
+   "cielo"
+  ],
+  "space": [
+   "cielo"
+  ],
+  "marriage": [
+   "eventi"
+  ],
+  "bride": [
+   "eventi"
+  ],
+  "veil": [
+   "eventi"
+  ],
+  "prom": [
+   "eventi"
+  ],
+  "event": [
+   "eventi"
+  ],
+  "ballroom": [
+   "eventi"
+  ],
+  "tuxedo": [
+   "eventi"
+  ],
+  "centrepiece": [
+   "eventi",
+   "casa"
+  ],
+  "circus": [
+   "eventi"
+  ],
+  "skyline": [
+   "citta"
+  ],
+  "skyscraper": [
+   "citta"
+  ],
+  "building": [
+   "citta"
+  ],
+  "tower": [
+   "citta"
+  ],
+  "bridge": [
+   "citta"
+  ],
+  "road": [
+   "citta"
+  ],
+  "monument": [
+   "citta",
+   "viaggi"
+  ],
+  "cathedral": [
+   "citta"
+  ],
+  "temple": [
+   "citta"
+  ],
+  "ferris wheel": [
+   "citta"
+  ],
+  "infrastructure": [
+   "citta"
+  ],
+  "vacation": [
+   "viaggi"
+  ],
+  "airplane": [
+   "viaggi"
+  ],
+  "aircraft": [
+   "viaggi"
+  ],
+  "aviation": [
+   "viaggi"
+  ],
+  "passport": [
+   "viaggi"
+  ],
+  "train": [
+   "viaggi"
+  ],
+  "ruins": [
+   "viaggi"
+  ],
+  "safari": [
+   "viaggi",
+   "animali"
+  ],
+  "camping": [
+   "viaggi",
+   "natura"
+  ],
+  "canyon": [
+   "viaggi",
+   "natura"
+  ],
+  "desert": [
+   "viaggi",
+   "natura"
+  ],
+  "dune": [
+   "viaggi",
+   "natura"
+  ],
+  "bird": [
+   "animali"
+  ],
+  "horse": [
+   "animali"
+  ],
+  "bear": [
+   "animali"
+  ],
+  "cattle": [
+   "animali"
+  ],
+  "bull": [
+   "animali"
+  ],
+  "herd": [
+   "animali"
+  ],
+  "duck": [
+   "animali"
+  ],
+  "waterfowl": [
+   "animali"
+  ],
+  "penguin": [
+   "animali"
+  ],
+  "turtle": [
+   "animali"
+  ],
+  "crocodile": [
+   "animali"
+  ],
+  "butterfly": [
+   "animali"
+  ],
+  "insect": [
+   "animali"
+  ],
+  "gerbil": [
+   "animali"
+  ],
+  "seal": [
+   "animali"
+  ],
+  "aquarium": [
+   "animali"
+  ],
+  "pet": [
+   "animali"
+  ],
+  "bridle": [
+   "animali"
+  ],
+  "rein": [
+   "animali"
+  ],
+  "room": [
+   "casa"
+  ],
+  "bedroom": [
+   "casa"
+  ],
+  "bathroom": [
+   "casa"
+  ],
+  "kitchen": [
+   "casa"
+  ],
+  "couch": [
+   "casa"
+  ],
+  "loveseat": [
+   "casa"
+  ],
+  "chair": [
+   "casa"
+  ],
+  "cushion": [
+   "casa"
+  ],
+  "curtain": [
+   "casa"
+  ],
+  "cabinetry": [
+   "casa"
+  ],
+  "shelf": [
+   "casa"
+  ],
+  "drawer": [
+   "casa"
+  ],
+  "countertop": [
+   "casa"
+  ],
+  "sink": [
+   "casa"
+  ],
+  "tile": [
+   "casa"
+  ],
+  "bunk bed": [
+   "casa"
+  ],
+  "armrest": [
+   "casa"
+  ],
+  "beach": [
+   "mare"
+  ],
+  "sand": [
+   "mare"
+  ],
+  "swimwear": [
+   "mare"
+  ],
+  "surfboard": [
+   "mare"
+  ],
+  "surfing": [
+   "mare",
+   "sport"
+  ],
+  "reef": [
+   "mare"
+  ],
+  "underwater": [
+   "mare"
+  ],
+  "shell": [
+   "mare"
+  ],
+  "boat": [
+   "mare"
+  ],
+  "sailboat": [
+   "mare"
+  ],
+  "skiff": [
+   "mare"
+  ],
+  "brig": [
+   "mare"
+  ],
+  "frigate": [
+   "mare"
+  ],
+  "wetsuit": [
+   "mare"
+  ],
+  "lighthouse": [
+   "mare"
+  ],
+  "shipwreck": [
+   "mare"
+  ],
+  "pomacentridae": [
+   "mare"
+  ],
+  "windsurfing": [
+   "mare",
+   "sport"
+  ],
+  "snorkeling": [
+   "mare",
+   "sport"
+  ],
+  "scuba diving": [
+   "mare",
+   "sport"
+  ],
+  "forest": [
+   "natura"
+  ],
+  "jungle": [
+   "natura"
+  ],
+  "field": [
+   "natura"
+  ],
+  "prairie": [
+   "natura"
+  ],
+  "flora": [
+   "natura"
+  ],
+  "waterfall": [
+   "natura"
+  ],
+  "swamp": [
+   "natura"
+  ],
+  "river": [
+   "natura"
+  ],
+  "rock": [
+   "natura"
+  ],
+  "cave": [
+   "natura"
+  ],
+  "caving": [
+   "natura"
+  ],
+  "bonfire": [
+   "natura"
+  ],
+  "farm": [
+   "natura"
+  ],
+  "ranch": [
+   "natura"
+  ],
+  "barn": [
+   "natura"
+  ],
+  "park": [
+   "natura"
+  ],
+  "competition": [
+   "sport"
+  ],
+  "stadium": [
+   "sport"
+  ],
+  "team": [
+   "sport"
+  ],
+  "badminton": [
+   "sport"
+  ],
+  "rugby": [
+   "sport"
+  ],
+  "softball": [
+   "sport"
+  ],
+  "gymnastics": [
+   "sport"
+  ],
+  "curling": [
+   "sport"
+  ],
+  "archery": [
+   "sport"
+  ],
+  "polo": [
+   "sport"
+  ],
+  "race": [
+   "sport"
+  ],
+  "rowing": [
+   "sport"
+  ],
+  "kayak": [
+   "sport"
+  ],
+  "rafting": [
+   "sport"
+  ],
+  "wakeboarding": [
+   "sport"
+  ],
+  "waterskiing": [
+   "sport"
+  ],
+  "swimming": [
+   "sport"
+  ],
+  "skateboard": [
+   "sport"
+  ],
+  "skateboarder": [
+   "sport"
+  ],
+  "longboard": [
+   "sport"
+  ],
+  "dress": [
+   "moda"
+  ],
+  "jeans": [
+   "moda"
+  ],
+  "denim": [
+   "moda"
+  ],
+  "jacket": [
+   "moda"
+  ],
+  "blazer": [
+   "moda"
+  ],
+  "outerwear": [
+   "moda"
+  ],
+  "shoe": [
+   "moda"
+  ],
+  "sneakers": [
+   "moda"
+  ],
+  "handbag": [
+   "moda"
+  ],
+  "bag": [
+   "moda"
+  ],
+  "hat": [
+   "moda"
+  ],
+  "cap": [
+   "moda"
+  ],
+  "beanie": [
+   "moda"
+  ],
+  "scarf": [
+   "moda"
+  ],
+  "glasses": [
+   "moda"
+  ],
+  "tights": [
+   "moda"
+  ],
+  "leggings": [
+   "moda"
+  ],
+  "shorts": [
+   "moda"
+  ],
+  "sari": [
+   "moda"
+  ],
+  "model": [
+   "moda"
+  ],
+  "tie": [
+   "moda"
+  ],
+  "bracelet": [
+   "moda"
+  ],
+  "bangle": [
+   "moda"
+  ],
+  "jewellery": [
+   "moda"
+  ],
+  "ring": [
+   "moda"
+  ],
+  "food": [
+   "cibo"
+  ],
+  "cuisine": [
+   "cibo"
+  ],
+  "meal": [
+   "cibo"
+  ],
+  "lunch": [
+   "cibo"
+  ],
+  "supper": [
+   "cibo"
+  ],
+  "eating": [
+   "cibo"
+  ],
+  "fast food": [
+   "cibo"
+  ],
+  "hot dog": [
+   "cibo"
+  ],
+  "bento": [
+   "cibo"
+  ],
+  "sushi": [
+   "cibo"
+  ],
+  "pho": [
+   "cibo"
+  ],
+  "couscous": [
+   "cibo"
+  ],
+  "bread": [
+   "cibo"
+  ],
+  "vegetable": [
+   "cibo"
+  ],
+  "fruit": [
+   "cibo"
+  ],
+  "pasteles": [
+   "cibo"
+  ],
+  "tableware": [
+   "cibo"
+  ],
+  "cutlery": [
+   "cibo"
+  ],
+  "cookware and bakeware": [
    "cibo"
   ]
  },

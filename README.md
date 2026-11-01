@@ -10,7 +10,7 @@ Gratis, senza pubblicità, senza account. Le statistiche dei tuoi follower e i p
 2. Apri il file scaricato. La prima volta Android chiede di consentire l'installazione da questa fonte: consentila.
 3. Serve Android 10 o successivo.
 
-**Aggiornamenti:** quando esce una versione nuova, Tagly te lo dice da sola, ti mostra le novità e, se vuoi, la installa **sopra** quella che hai (impostazioni, statistiche e post programmati restano). Gli elenchi degli hashtag e gli orari si aggiornano da soli, senza installare niente. Le novità di ogni versione sono in [NOVITA.md](NOVITA.md) e nella pagina Novità dell'app.
+**Aggiornamenti:** quando esce una versione nuova, Tagly te lo dice da sola, ti mostra le novità e, se vuoi, la installa **sopra** quella che hai (impostazioni, statistiche e post programmati restano). Gli elenchi degli hashtag e gli orari si aggiornano da soli, senza installare niente. In Impostazioni › **Aggiornamenti dell'app** vedi se c'è una versione nuova, la scarichi e la installi quando vuoi. Le novità di ogni versione sono in [NOVITA.md](NOVITA.md) e nella pagina Novità dell'app.
 
 ## Cosa fa
 
@@ -31,6 +31,6 @@ Ti piace Tagly? Puoi sostenerne lo sviluppo su [Ko-fi](https://ko-fi.com/vincenz
 ## Informazioni
 
 - [Informativa sulla privacy](PRIVACY.md)
-- Scarica Tagly solo da questa pagina: se la copia installata non è quella originale, l'app te lo dice.
+- Scarica Tagly solo da questa pagina: se la copia installata non è quella originale, l'app te lo dice e mostra la firma che ha trovato.
 - I numeri degli hashtag vengono da fonti pubbliche e cambiano ogni giorno: sono indicativi. Tagly non è collegata a Instagram, TikTok, Meta o ByteDance.
 - © 2026 Vincenzo Ciriello. **Tutti i diritti riservati** ([LICENSE](LICENSE)). Questo repository contiene solo l'app compilata e i dati aggiornabili (`config/`): il codice sorgente non è pubblico.

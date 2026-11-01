@@ -1,5 +1,14 @@
 # Novità di Tagly
 
+## 1.0.6 — 1 novembre 2026
+
+- In Impostazioni › Rapporti trovi la voce Privacy: cosa resta sul telefono e cosa contengono i rapporti.
+- Tagly riconosce le foto e i video direttamente sul telefono: gratis, senza limiti, senza account e anche senza connessione. Le tue immagini non escono più dal telefono.
+- Niente più pagina di attivazione di Puter né servizio di riserva: l'analisi è più veloce e l'app più leggera.
+- Riconosce meglio selfie, tramonti, spiagge, feste, cibi, animali e molto altro.
+- Se non scrivi la nota, Tagly ti ricorda che dire di cosa parla o dove sei rende gli hashtag più precisi.
+- Chi ha collegato la propria chiave Gemini continua a usarla per prima, come prima.
+
 ## 1.0.5 — 1 novembre 2026
 
 - Nuova sezione Aggiornamenti (Impostazioni › Aggiornamenti dell'app): vedi se c'è una versione nuova, la scarichi e la installi solo quando vuoi.
