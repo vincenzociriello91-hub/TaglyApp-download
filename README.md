@@ -19,8 +19,8 @@ Gratis, senza pubblicità, senza account. Le statistiche dei tuoi follower e i p
 - **Quando pubblicare**: un voto per adesso, la prossima fascia migliore e le 3 migliori della settimana, in ora italiana, con le feste e i ponti. Con le statistiche dei tuoi follower diventano su misura.
 - **Le mie statistiche**: segna i giorni e le ore in cui i tuoi follower sono più attivi e gli orari diventano su misura.
 - **Promemoria**: tocca «Ricordamelo» e all'ora giusta una notifica riapre il post pronto. I post in attesa sono in «Programmati».
-- **Anche senza rete**: se l'intelligenza artificiale online non risponde, Tagly riconosce le immagini sul telefono.
-- **Rapporti anonimi, solo se vuoi**: al primo avvio Tagly chiede se può inviare rapporti tecnici per migliorare l'app; si spengono quando vuoi nelle Impostazioni. Cosa contengono è scritto nell'[informativa](PRIVACY.md).
+- **Riconoscimento sul telefono**: Tagly riconosce foto e video direttamente sul telefono, gratis, senza limiti, senza account e anche senza connessione. Le tue immagini non escono dal telefono.
+- **Rapporti anonimi, solo se vuoi**: al primo avvio Tagly chiede se può inviare rapporti tecnici per migliorare l'app; si spengono quando vuoi nelle Impostazioni. Cosa contengono è scritto nell'[informativa](PRIVACY.md), che trovi anche in Impostazioni › Rapporti › Privacy.
 
 ## Suggerimenti e problemi
 
