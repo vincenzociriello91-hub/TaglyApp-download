@@ -1,5 +1,10 @@
 # Novità di Tagly
 
+## 1.0.5 — 1 novembre 2026
+
+- Nuova sezione Aggiornamenti (Impostazioni › Aggiornamenti dell'app): vedi se c'è una versione nuova, la scarichi e la installi solo quando vuoi.
+- Tagly da Google Play: l'aggiornamento si scarica in background mentre usi l'app, poi decidi tu quando installarlo.
+
 ## 1.0.4 — 1 novembre 2026
 
 - Corretto: Tagly scaricata da Google Play non viene più segnalata per errore come copia non originale.
