@@ -1,5 +1,8 @@
 {
-  "versione": 3,
+  "versione": 4,
+  "cloudflare": {
+    "indirizzo": "https://tagly-ia.vincenzociriello91.workers.dev"
+  },
   "rapporti": {
     "indirizzo": "https://tagly-rapporti.vincenzociriello91.workers.dev/rapporto"
   }

@@ -1,5 +1,15 @@
 # Novità di Tagly
 
+## 1.0.7 — 1 novembre 2026
+
+- Riconoscimento migliore delle foto con l'IA gratuita di Tagly: capisce meglio luoghi, piatti e scene. Niente account né chiavi.
+- Parte una sola immagine piccola con le foto affiancate, senza posizione: non viene salvata da nessuna parte.
+- Quando la quota gratuita del giorno è finita Tagly te lo dice e riconosce le foto sul telefono; il giorno dopo riparte da sola.
+- Se chiudi Tagly a metà analisi, alla riapertura trovi «Completa l'analisi»: fa solo quello che manca.
+- Tagly controlla gli aggiornamenti ogni volta che la apri (al massimo ogni 15 minuti).
+- Nuova guida «Come funziona», in Impostazioni › Novità e aggiornamenti.
+- Se il telefono non riesce a leggere la firma dell'app, Tagly non si blocca.
+
 ## 1.0.6 — 1 novembre 2026
 
 - In Impostazioni › Rapporti trovi la voce Privacy: cosa resta sul telefono e cosa contengono i rapporti.
